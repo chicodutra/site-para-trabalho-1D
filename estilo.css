@@ -7,3 +7,7 @@ body{
     color: rgb(49, 34, 64);
     font-family: "Roboto", Gravitas One;
 }
+
+.cabecalho{
+    background-color: rgb(134, 72, 151);
+}
