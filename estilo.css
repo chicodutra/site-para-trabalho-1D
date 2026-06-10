@@ -1,11 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Gravitas+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gravitas+One&family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap');
 
 
 
 body{
     background-color: rgb(227, 197, 237);
     color: rgb(49, 34, 64);
-    font-family: "Roboto", Gravitas One;
+    font-family: "Roboto", Merriweather;
 }
 
 .cabecalho{
