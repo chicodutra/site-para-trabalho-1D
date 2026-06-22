@@ -22,3 +22,14 @@ body{
     width: 67px;
     heigth: 67px;
 }
+.imagem-pibble2{
+     width: 67px;
+    heigth: 67px
+}
+main{
+    background-color: red;
+    color: rebeccapurple;
+    max-width:800px;
+margin: 0 auto;
+padding: 16px;
+}
