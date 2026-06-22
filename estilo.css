@@ -19,14 +19,14 @@ body{
     padding: 20px;
 }
 .imagem-piblee{
-    width: 67px;
-    height: 67px;
+    width: 100px;
+    height: 100px;
 }
 
 main{
-    background-color: red;
+    background-color: violet;
     color: rebeccapurple;
-    max-width:800px;
+    max-width:1500px;
 margin: 0 auto;
 padding: 16px;
 }
