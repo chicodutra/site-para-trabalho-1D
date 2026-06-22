@@ -24,8 +24,8 @@ body{
 }
 
 main{
-    background-color: rebeccapurple;
-    color: violet;
+    background-color: violet;
+    color: rebeccapurple;
     max-width:1300px;
 margin: 0 auto;
 padding: 16px;
