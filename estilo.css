@@ -24,9 +24,9 @@ body{
 }
 
 main{
-    background-color: violet;
-    color: rebeccapurple;
-    max-width:1200px;
+    background-color: rebeccapurple;
+    color: violet;
+    max-width:1300px;
 margin: 0 auto;
 padding: 16px;
 }
