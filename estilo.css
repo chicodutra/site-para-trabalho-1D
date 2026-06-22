@@ -20,12 +20,9 @@ body{
 }
 .imagem-piblee{
     width: 67px;
-    heigth: 67px;
+    height: 67px;
 }
-.imagem-pibble2{
-     width: 67px;
-    heigth: 67px
-}
+
 main{
     background-color: red;
     color: rebeccapurple;
