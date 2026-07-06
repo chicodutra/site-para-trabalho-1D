@@ -1,1 +1,2 @@
-alert(ola munso)
+const botoes = document.querySelectorAll("button")
+console.log(botoes)
