@@ -3,7 +3,7 @@ console.log(botoes)
 botoes.forEach (function(botao){
 let = curtida = false;
 botao.addEventListener ("click"), botaoClicado
-fubction botaoClicado(){
+function botaoClicado(){
     console.log("botao clicado")
 }
 })
